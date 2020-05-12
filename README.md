@@ -4,4 +4,4 @@ Some tid bits of things I've learned. Inspired by [jbranchaud/til](https://githu
 
 ### Said Tid Bits
 
-* [cURL It](curl-it.md)*
+* [cURL It](curl-it.md)
