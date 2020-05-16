@@ -6,3 +6,4 @@ Some tid bits of things I've learned. Inspired by [jbranchaud/til](https://githu
 
 * [cURL It](curl-it.md)
 * [Continuous Delivery vs. Continuous Deployment](continuous-delivery-vs-continuous-deployment.md)
+* [Enums Have A Default Value](enum-default-vaue.md)

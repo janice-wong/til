@@ -5,7 +5,7 @@ Today, I commented on a PR, "Should we be checking this `Enum` for `null`?" and 
 
 Just kidding - that's terrible. No one should need to work with someone who speaks that way.
 
-Point is - in C#, **non-nullable** `Enum`s have a default value and cannot be be `null`, though C# does offer nullable `Enum`s.
+Point is - in C#, **non-nullable** `Enum`s have a default value and cannot be be `null`, though C# does offer _nullable_ `Enum`s.
 
 ```
 public NonNullableEnum someNonNullableEnum = NonNullableEnum.Undefined;
