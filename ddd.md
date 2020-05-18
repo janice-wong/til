@@ -1,4 +1,4 @@
-# Domain Entities and Value Objects and Aggregates, Oh My!
+# Domain entities and value objects and aggregates, oh my!
 
 Working in a DDD ([domain-driven design](https://domainlanguage.com/ddd/)) codebase has taught me many a lesson about these three concepts:
 - A *domain entity* is an object that has a distinct identity and exists through time (or as described by Eric Evans, "has a thread of continuity").
@@ -39,7 +39,7 @@ public class Address // Value Object
     public string City { get; private set; }
 }
 ```
-Note, this is not proper usage of DDD - the public getter `List<OrderItem> Items` allows for external manipulation of this list. Will explain in a future TIL.
+Note, this is not proper usage of DDD - the public getter `List<OrderItem> Items` allows for external manipulation of this list (explained in [this TIL](encapsulated-collections-in-ddd.md)).
 
 ***
 
