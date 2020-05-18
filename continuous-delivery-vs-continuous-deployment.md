@@ -6,4 +6,6 @@ Continuous deployment means you _continuously deploy_ changes to production.
 
 Continuous delivery means you _can_ continuously deploy changes to production, but it's up to the business to decide whether or not they want to - maybe they want to release changes gradually, or whatever the reason may be.
 
+***
+
 [Source](https://youtu.be/aoMfbgF2D_4)
