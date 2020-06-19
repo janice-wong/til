@@ -10,3 +10,4 @@ Some tid bits of things I've learned. Inspired by [jbranchaud/til](https://githu
 * [Domain Entities and Value Objects and Aggregates, Oh My!](ddd.md)
 * [Encapsulated Collections in DDD](encapsulated-collections-in-ddd.md)
 * [Declaring Arrays in SQL](declaring-arrays-in-sql.md)
+* [Value vs Reference Types](value-vs-refence-types.md)
