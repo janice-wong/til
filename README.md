@@ -11,3 +11,4 @@ Some tid bits of things I've learned. Inspired by [jbranchaud/til](https://githu
 * [Encapsulated Collections in DDD](encapsulated-collections-in-ddd.md)
 * [Declaring Arrays in SQL](declaring-arrays-in-sql.md)
 * [Value vs Reference Types](value-vs-refence-types.md)
+* [A Reminder in GROUP BY](group-by.md)
